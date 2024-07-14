@@ -1,5 +1,7 @@
+the data set is available here kaggle datasets download -d yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring
 
---DATA CLEANING(FIFA 21 DATASET)
+	
+	--DATA CLEANING(FIFA 21 DATASET)
 
 SELECT COUNT(*)
   FROM [fifadatacleaning].[dbo].[fifa21_raw_datav2]
